@@ -9,7 +9,7 @@ I am currently pursuing a Bachelor of Science in Information Technology at South
 - 🎓 Pursuing a Bachelor of Science in Information Technology
 - 🎓 A.A.S. in Computer Information Systems
 - 📊 Professional experience in quality, data analysis, reporting, and process improvement
-- 🔍 Career interests include Quality Assurance, Software Testing, Systems Analysis, IT Business Analysis, and IT Operations
+- 🔍 Career interests include Quality Assurance, Software Testing, Systems Analysis, IT Business Analysis, IT Operations and related Analyst positions.
 - 💡 Interested in using technology to improve quality, solve problems, analyze information, and improve business processes
 - 🌱 Continuing to develop hands-on technical skills through coursework and independent learning
 
