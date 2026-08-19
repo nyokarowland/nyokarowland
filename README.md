@@ -88,7 +88,7 @@ I am particularly interested in opportunities involving:
 - Systems Analysis
 - IT Business Analysis
 - IT Operations
-- Technical Support
+- Related Analyst Roles
 - Technology Process Improvement
 
 ## 📚 Currently Learning
