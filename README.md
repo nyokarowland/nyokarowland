@@ -13,6 +13,30 @@ I am currently pursuing a Bachelor of Science in Information Technology at South
 - 💡 Interested in using technology to improve quality, solve problems, analyze information, and strengthen business processes
 - 🌱 Continuing to develop hands-on technical skills through coursework, portfolio projects, and independent learning
 
+## 📁 Portfolio Projects
+
+My portfolio includes hands-on projects that demonstrate how I apply quality, testing, analysis, troubleshooting, and information technology concepts.
+
+### 🔍 [Software QA Testing Portfolio](https://github.com/nyokarowland/software-qa-testing-portfolio)
+
+Completed a simulated software quality assurance project demonstrating the full QA lifecycle, including test planning, test case development, manual functional testing, defect reporting, severity and priority evaluation, root cause analysis using 5 Whys, corrective actions, defect retesting, regression testing, and final test reporting.
+
+### 🌐 [Network Design and Troubleshooting](https://github.com/nyokarowland/network-design-and-troubleshooting)
+
+Completed hands-on networking activities involving topology planning, VLAN segmentation, IP addressing, VPN connectivity, network security concepts, troubleshooting, and network design.
+
+### 🗄️ [MySQL Database Analysis](https://github.com/nyokarowland/mysql-database-analysis)
+
+Completed hands-on database work using SQL and relational database concepts, including retrieving, organizing, updating, and analyzing data.
+
+### 🐍 [Python Text-Based Game](https://github.com/nyokarowland/python-text-based-game)
+
+Developed a text-based game using Python while applying foundational programming concepts such as variables, conditional statements, loops, functions, and user input.
+
+### 💻 [Operating Systems & Virtualization](https://github.com/nyokarowland/operating-systems-and-virtualization)
+
+Worked with Windows and Linux environments and virtual machines to develop practical experience with operating systems, system configuration, hardware compatibility, troubleshooting, security, migration planning, and virtualization concepts.
+
 ## 💼 Professional Strengths
 
 - Quality Assurance
@@ -52,31 +76,6 @@ I am currently pursuing a Bachelor of Science in Information Technology at South
 - Virtual Machines and Virtualization
 - Networking Fundamentals
 - IT Troubleshooting
-- Cybersecurity Fundamentals
-
-## 📁 Portfolio Projects
-
-My portfolio includes hands-on projects that demonstrate how I apply quality, testing, analysis, troubleshooting, and information technology concepts.
-
-### 🔍 [Software QA Testing Portfolio](https://github.com/nyokarowland/software-qa-testing-portfolio)
-
-Completed a simulated software quality assurance project demonstrating the full QA lifecycle, including test planning, test case development, manual functional testing, defect reporting, severity and priority evaluation, root cause analysis using 5 Whys, corrective actions, defect retesting, regression testing, and final test reporting.
-
-### 🌐 [Network Design and Troubleshooting](https://github.com/nyokarowland/network-design-and-troubleshooting)
-
-Completed hands-on networking activities involving topology planning, VLAN segmentation, IP addressing, VPN connectivity, network security concepts, troubleshooting, and network design.
-
-### 🗄️ [MySQL Database Analysis](https://github.com/nyokarowland/mysql-database-analysis)
-
-Completed hands-on database work using SQL and relational database concepts, including retrieving, organizing, updating, and analyzing data.
-
-### 🐍 [Python Text-Based Game](https://github.com/nyokarowland/python-text-based-game)
-
-Developed a text-based game using Python while applying foundational programming concepts such as variables, conditional statements, loops, functions, and user input.
-
-### 💻 [Operating Systems & Virtualization](https://github.com/nyokarowland/operating-systems-and-virtualization)
-
-Worked with Windows and Linux environments and virtual machines to develop practical experience with operating systems, system configuration, hardware compatibility, troubleshooting, security, migration planning, and virtualization concepts.
 
 ## 📊 Data & Process Improvement
 
@@ -106,7 +105,6 @@ I am continuing to strengthen my technical knowledge through my Information Tech
 - Database Fundamentals and SQL
 - Systems and Virtualization
 - IT Infrastructure
-- Cybersecurity Fundamentals
 - Technical Problem-Solving
 
 ## 🚀 Building My Portfolio
