@@ -17,7 +17,7 @@ I am currently pursuing a Bachelor of Science in Information Technology at South
 
 My portfolio includes hands-on projects that demonstrate how I apply quality, testing, analysis, troubleshooting, and information technology concepts.
 
-### 🔎 [Automated Quality Monitoring](projects/automated-quality-monitoring.md) — Professional Team Project
+### 🔎 [Customer-Service Call Monitoring and Scoring Validation](projects/automated-quality-monitoring.md) — Professional Team Project
 
 I worked with a team to develop and validate an automated quality-monitoring process for customer-service calls. I conducted test calls to check scoring accuracy against call-handling standards and keyword criteria, identify missed results, and help refine the evaluation logic.
 
