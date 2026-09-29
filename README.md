@@ -2,44 +2,35 @@
 
 ### Information Technology | Quality Assurance | Systems Analysis | Process Improvement
 
-I am currently pursuing a Bachelor of Science in Information Technologies at Southern New Hampshire University. I bring professional experience in quality, data analysis, reporting, process improvement, customer service, and operations. I am continuing to strengthen my technical knowledge through coursework, independent projects, and hands-on practice as I transition into an IT-focused career.
-
-## 👩🏽‍💻 About Me
-
-- 🎓 Pursuing a Bachelor of Science in Information Technologies
-- 🎓 A.A.S. in Computer Information Systems
-- 📊 Professional experience in quality, data analysis, reporting, process improvement, customer service, and operations
-- 🔍 Career interests include Quality Assurance, Software Testing, Systems Analysis, IT Business Analysis, Application Support, and related analyst roles
-- 💡 Interested in using technology to improve quality, solve problems, analyze information, and strengthen business processes
-- 🌱 Continuing to develop hands-on technical skills through coursework, portfolio projects, and independent learning
+I have more than 15 years of experience in quality assurance, reporting, data analysis, and process improvement. I am pursuing a Bachelor of Science in Information Technologies and building on that experience through technical coursework and portfolio projects. My goal is to help teams improve quality, solve problems, and make technology work better for the people who use it.
 
 ## 📁 Portfolio Projects
 
-My portfolio includes a professional team project in call-monitoring validation, along with hands-on projects in quality assurance, software testing, systems analysis, databases, networking, and troubleshooting.
+My portfolio includes a professional team project in call-monitoring validation and hands-on projects in software testing, systems analysis, databases, networking, and troubleshooting.
 
 ### 🔎 [Customer-Service Call Monitoring and Scoring Validation](projects/automated-quality-monitoring.md) — Professional Team Project
 
-I worked with a team to develop and validate an automated quality-monitoring process for customer-service calls. I conducted test calls to check scoring accuracy against call-handling standards and keyword criteria, identify missed results, and help refine the evaluation logic.
+I worked with a team to develop and validate an automated quality-monitoring process for customer-service calls. I conducted test calls to check scoring accuracy against call-handling standards and keyword criteria, identify missed results, and help refine the evaluation logic. The linked page includes a clearly labeled fictional test case to demonstrate the validation approach.
 
-### 🔍 [Software QA Testing Portfolio](https://github.com/nyokarowland/software-qa-testing-portfolio)
+### 🔍 [Software QA Testing Portfolio](https://github.com/nyokarowland/software-qa-testing-portfolio) — Simulated Project
 
-Completed a simulated software quality assurance project demonstrating the full QA lifecycle, including test planning, test case development, manual functional testing, defect reporting, severity and priority evaluation, root cause analysis using 5 Whys, corrective actions, defect retesting, regression testing, and final test reporting.
+Created test plans, test cases, defect reports, root cause analysis, regression results, and a final summary for a simulated employee service request application.
 
 ### 🌐 [Network Design and Troubleshooting](https://github.com/nyokarowland/network-design-and-troubleshooting)
 
-Completed hands-on networking activities involving topology planning, VLAN segmentation, IP addressing, VPN connectivity, network security concepts, troubleshooting, and network design.
+Designed a branch-office network proposal covering topology, VLANs, IP addressing, VPN connectivity, security, monitoring, and troubleshooting.
 
 ### 🗄️ [MySQL Database Analysis](https://github.com/nyokarowland/mysql-database-analysis)
 
-Completed hands-on database work using SQL and relational database concepts, including retrieving, organizing, updating, and analyzing data.
+Built and queried a relational database using joins, filtering, aggregate functions, record updates, verification queries, and CSV export.
 
 ### 🐍 [Python Text-Based Game](https://github.com/nyokarowland/python-text-based-game)
 
-Developed a text-based game using Python while applying foundational programming concepts such as variables, conditional statements, loops, functions, and user input.
+Developed an interactive game using Python functions, dictionaries, conditions, loops, user input, and debugging.
 
 ### 💻 [Operating Systems & Virtualization](https://github.com/nyokarowland/operating-systems-and-virtualization)
 
-Worked with Windows and Linux environments and virtual machines to develop practical experience with operating systems, system configuration, hardware compatibility, troubleshooting, security, migration planning, and virtualization concepts.
+Analyzed operating-system and application compatibility, Windows 11 migration, virtual machines, hybrid infrastructure, and structured troubleshooting.
 
 ## 💼 Professional Strengths
 
@@ -53,63 +44,12 @@ Worked with Windows and Linux environments and virtual machines to develop pract
 - Coaching and Escalation Management
 - Cross-Functional Collaboration
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Technical Skills
 
-### Professional Tools
+**Professional tools:** Power BI · Advanced Microsoft Excel · Power Apps · Power Automate · SharePoint · SAP · Microsoft PowerPoint
 
-- Power BI
-- Advanced Microsoft Excel
-- Power Apps
-- Power Automate
-- SharePoint
-- SAP
-- Microsoft PowerPoint
-
-### Developing Technical Skills
-
-- Software Quality Assurance
-- Manual and Functional Testing
-- Test Case Development
-- Defect Reporting
-- Regression Testing
-- Python
-- SQL Fundamentals
-- Relational Database Concepts
-- Windows and Linux Environments
-- Virtual Machines and Virtualization
-- Networking Fundamentals
-- IT Troubleshooting
-
-## 📊 Data & Process Improvement
-
-I apply professional experience in data, reporting, quality, root cause analysis, and process improvement to my growing knowledge of information technology and systems. My goal is to combine these strengths with technical skills to support reliable systems, better decisions, and improved business processes.
+**Developing technical skills:** Software testing · Test case development · Defect reporting · Regression testing · SQL/MySQL · Python · Windows, macOS, and Linux · Virtual machines · Networking · IT troubleshooting
 
 ## 🎯 Career Focus
 
-My goal is to transition into an IT-focused role where I can combine my professional experience in quality, data, operations, and process improvement with my growing technical skills.
-
-I am particularly interested in opportunities involving:
-
-- Quality Assurance
-- Software Testing
-- Quality Analyst Roles
-- Systems Analysis
-- IT Business Analysis
-- Application Support
-- Technology Process Improvement
-- Related IT and Business Analyst Positions
-
-## 📚 Currently Learning
-
-I am continuing to strengthen my technical knowledge through my Information Technology degree program, portfolio projects, and hands-on practice in:
-
-- Software Quality Assurance and Testing
-- Networking
-- Database Fundamentals and SQL
-- Systems and Virtualization
-- IT Infrastructure
-- Technical Problem-Solving
-
-## 🚀 Building My Portfolio
-
-This GitHub portfolio documents my continued growth in information technology and demonstrates how I apply technical concepts alongside my professional background in quality, data, operations, and process improvement. As I complete new projects and strengthen my skills, I will continue adding selected work that demonstrates practical problem-solving and real-world application of technology.
+I am interested in Quality Analyst, Software QA, Systems Analysis, IT Business Analysis, Application Support, and technology-focused process improvement roles. My background in quality and reporting helps me evaluate processes, document issues, and support improvements as I continue to strengthen my IT skills.
