@@ -43,23 +43,22 @@ Worked with Windows and Linux environments and virtual machines to develop pract
 
 ## 💼 Professional Strengths
 
-- Quality Assurance
-- Data Analysis and Reporting
+- Quality Assurance and Call Monitoring
+- Automated Scoring Validation
+- Power BI Dashboards and KPI Reporting
+- Data Validation and Integrity
+- Root Cause Analysis and Corrective Actions
 - Process Improvement
-- Root Cause Analysis
-- Corrective Actions
 - Technical and Business Documentation
-- Problem Solving
-- Cross-Functional Communication
-- Customer and Client Support
-- Operational Quality
+- Coaching and Escalation Management
+- Cross-Functional Collaboration
 
 ## 🛠️ Tools & Technologies
 
-### Professional Experience
+### Professional Tools
 
 - Power BI
-- Microsoft Excel
+- Advanced Microsoft Excel
 - Power Apps
 - Power Automate
 - SharePoint
