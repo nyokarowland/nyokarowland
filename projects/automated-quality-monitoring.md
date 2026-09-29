@@ -29,6 +29,25 @@ The examples below illustrate the call-flow areas that a quality-monitoring proc
 
 An automated keyword check can miss a valid response phrased differently or match a phrase without the intended behavior. Test calls and human review helped evaluate whether the scoring accurately represented the customer interaction.
 
+## Sample Validation Test Case (Fictional)
+
+**Test ID:** CM-01  
+**Purpose:** Check whether the scoring logic recognizes a valid confirmation of resolution when the representative uses a natural phrase instead of an exact keyword.  
+**Test data:** Fictional demonstration; no real customer call, company script, production score, or confidential information is used.
+
+| Call stage | Example representative statement | Expected recognition |
+|---|---|---|
+| Opening | “Thank you for calling [Company]. My name is Alex. How may I help you?” | Greeting and introduction recognized |
+| Acknowledgment | “I understand you're calling about a charge you don't recognize. Let me review it with you.” | Concern acknowledged |
+| Empathy and apology | “I'm sorry for the worry this caused. I can see why you wanted to check.” | Empathy and apology recognized |
+| Addressing the issue | “I found the charge and explained what it covers. I've also noted the next step on your account.” | Issue addressed |
+| Confirming resolution | “Does that take care of everything you called about?” | Confirmation recognized |
+| Closing | “Is there anything else I can help you with? Thank you for calling [Company].” | Further help offered and closing recognized |
+
+**Expected result:** All six call-flow areas are recognized in this example.  
+**Illustrative automated result:** Five areas are recognized; confirmation of resolution is missed because the wording differs from an expected phrase.  
+**Validation finding:** The test call contains a clear confirmation question, so the missed result should be documented and reviewed. The team could assess an additional phrase pattern or another method of recognizing the intent, then retest it without creating false matches.
+
 ## Skills Demonstrated
 
 Quality assurance · Test calls · Expected-versus-actual comparison · Scoring validation · Call-flow analysis · Documentation · Process improvement · Team collaboration
