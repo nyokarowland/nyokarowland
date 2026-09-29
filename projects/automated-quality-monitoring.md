@@ -32,3 +32,13 @@ An automated keyword check can miss a valid response phrased differently or matc
 ## Skills Demonstrated
 
 Quality assurance · Test calls · Expected-versus-actual comparison · Scoring validation · Call-flow analysis · Documentation · Process improvement · Team collaboration
+
+## Other Portfolio Projects
+
+- [Software QA Testing Portfolio](https://github.com/nyokarowland/software-qa-testing-portfolio)
+- [Network Design and Troubleshooting](https://github.com/nyokarowland/network-design-and-troubleshooting)
+- [MySQL Database Analysis](https://github.com/nyokarowland/mysql-database-analysis)
+- [Python Text-Based Game](https://github.com/nyokarowland/python-text-based-game)
+- [Operating Systems & Virtualization](https://github.com/nyokarowland/operating-systems-and-virtualization)
+
+[View my full GitHub portfolio](https://github.com/nyokarowland)
