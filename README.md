@@ -12,6 +12,10 @@ My portfolio includes a professional team project in call-monitoring validation 
 
 I worked with a team to develop and validate an automated quality-monitoring process for customer-service calls. I conducted test calls to check scoring accuracy against call-handling standards and keyword criteria, identify missed results, and help refine the evaluation logic. The linked page includes a clearly labeled fictional test case to demonstrate the validation approach.
 
+### 🌐 [Customer Registration Web Service](https://github.com/nyokarowland/web-service-registration-architecture) — Architecture and Implementation Plan
+
+Designed a registration web service with Gmail-address validation, full-email uniqueness, server-side reCAPTCHA verification, IP-based security checks, and MySQL storage. The repository documents the proposed architecture and planned tests; it is not a deployed application.
+
 ### 🔍 [Software QA Testing Portfolio](https://github.com/nyokarowland/software-qa-testing-portfolio) — Simulated Project
 
 Created test plans, test cases, defect reports, root cause analysis, regression results, and a final summary for a simulated employee service request application.
