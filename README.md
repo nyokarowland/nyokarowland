@@ -15,7 +15,7 @@ I am currently pursuing a Bachelor of Science in Information Technologies at Sou
 
 ## 📁 Portfolio Projects
 
-My portfolio includes hands-on projects that demonstrate how I apply quality, testing, analysis, troubleshooting, and information technology concepts.
+My portfolio includes a professional team project in call-monitoring validation, along with hands-on projects in quality assurance, software testing, systems analysis, databases, networking, and troubleshooting.
 
 ### 🔎 [Customer-Service Call Monitoring and Scoring Validation](projects/automated-quality-monitoring.md) — Professional Team Project
 
