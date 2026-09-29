@@ -2,14 +2,14 @@
 
 ### Information Technology | Quality Assurance | Systems Analysis | Process Improvement
 
-I am currently pursuing a Bachelor of Science in Information Technology at Southern New Hampshire University. I bring professional experience in quality, data analysis, reporting, process improvement, customer service, and operations. I am continuing to strengthen my technical knowledge through coursework, independent projects, and hands-on practice as I transition into an IT-focused career.
+I am currently pursuing a Bachelor of Science in Information Technologies at Southern New Hampshire University. I bring professional experience in quality, data analysis, reporting, process improvement, customer service, and operations. I am continuing to strengthen my technical knowledge through coursework, independent projects, and hands-on practice as I transition into an IT-focused career.
 
 ## 👩🏽‍💻 About Me
 
-- 🎓 Pursuing a Bachelor of Science in Information Technology
+- 🎓 Pursuing a Bachelor of Science in Information Technologies
 - 🎓 A.A.S. in Computer Information Systems
 - 📊 Professional experience in quality, data analysis, reporting, process improvement, customer service, and operations
-- 🔍 Career interests include Quality Assurance, Software Testing, Systems Analysis, IT Business Analysis, IT Operations, and related analyst roles
+- 🔍 Career interests include Quality Assurance, Software Testing, Systems Analysis, IT Business Analysis, Application Support, and related analyst roles
 - 💡 Interested in using technology to improve quality, solve problems, analyze information, and strengthen business processes
 - 🌱 Continuing to develop hands-on technical skills through coursework, portfolio projects, and independent learning
 
@@ -96,7 +96,7 @@ I am particularly interested in opportunities involving:
 - Quality Analyst Roles
 - Systems Analysis
 - IT Business Analysis
-- IT Operations
+- Application Support
 - Technology Process Improvement
 - Related IT and Business Analyst Positions
 
