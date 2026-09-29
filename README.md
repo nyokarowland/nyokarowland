@@ -8,7 +8,7 @@ I have more than 15 years of experience in quality assurance, reporting, data an
 
 My portfolio includes a professional team project in call-monitoring validation and academic projects in web-service design, software testing, systems analysis, databases, networking, and troubleshooting.
 
-### 🔎 [Customer-Service Call Monitoring and Scoring Validation](projects/automated-quality-monitoring.md) — Professional Team Project
+### 🔎 [Customer-Service Call Monitoring and Scoring Validation](https://github.com/nyokarowland/automated-quality-monitoring) — Professional Team Project
 
 I worked with a team to develop and validate an automated quality-monitoring process for customer-service calls. I conducted test calls to check scoring accuracy against call-handling standards and keyword criteria, identify missed results, and help refine the evaluation logic. The linked page includes a clearly labeled fictional test case to demonstrate the validation approach.
 
