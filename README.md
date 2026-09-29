@@ -6,7 +6,7 @@ I have more than 15 years of experience in quality assurance, reporting, data an
 
 ## 📁 Portfolio Projects
 
-My portfolio includes a professional team project in call-monitoring validation and hands-on projects in software testing, systems analysis, databases, networking, and troubleshooting.
+My portfolio includes a professional team project in call-monitoring validation and academic projects in web-service design, software testing, systems analysis, databases, networking, and troubleshooting.
 
 ### 🔎 [Customer-Service Call Monitoring and Scoring Validation](projects/automated-quality-monitoring.md) — Professional Team Project
 
