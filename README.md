@@ -2,7 +2,7 @@
 
 ### Information Technology | Quality Assurance | Systems Analysis | Process Improvement
 
-I have more than 15 years of experience in quality assurance, reporting, data analysis, and process improvement. I am pursuing a Bachelor of Science in Information Technologies and building on that experience through technical coursework and portfolio projects. My goal is to help teams improve quality, solve problems, and make technology work better for the people who use it.
+I have more than 15 years of experience in quality assurance, reporting, data analysis, and process improvement. I am pursuing a Bachelor of Science in Information Technologies, expect to complete my coursework in April 2027, and plan to graduate in May 2027. I am building on my experience through technical coursework and portfolio projects. My goal is to help teams improve quality, solve problems, and make technology work better for the people who use it.
 
 ## Featured Projects
 
