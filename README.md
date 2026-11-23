@@ -55,11 +55,12 @@ I built related customer, order, and return tables and wrote queries for geograp
 - Process improvement
 - Technical and business documentation
 - Coaching and escalation management
+- Tier I/II/III technical support and troubleshooting for T1, DSL, PRI, VoIP, POTS, and email services
 - Cross-functional collaboration
 
 ## Tools & Technical Skills
 
-**Professional tools:** Power BI · Advanced Microsoft Excel · Power Apps · Power Automate · SharePoint · SAP · Microsoft PowerPoint
+**Professional tools:** Power BI · Advanced Microsoft Excel · Power Apps · Power Automate · SharePoint · SAP · Microsoft PowerPoint · Avaya Central Replay/ACR
 
 **Developing technical skills:** Software testing · Test case development · Defect reporting · Regression testing · SQL/MySQL · Python · Windows, macOS, and Linux · Virtual machines · Networking · IT troubleshooting
 
