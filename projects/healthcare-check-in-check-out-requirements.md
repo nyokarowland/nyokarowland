@@ -23,3 +23,18 @@ Requirements analysis · UML use-case modeling · Workflow documentation · Exce
 ## Project limits
 
 This is an academic design exercise for a fictional health center. It does not describe a deployed system and contains no real patient information.
+
+
+## Illustrative check-in workflow
+
+This simplified workflow excerpt shows how the proposed eligibility check depends on whether an integration is available. It is a portfolio illustration, not a copy of the full submitted diagrams.
+
+```mermaid
+flowchart TD
+    A[Patient arrives] --> B[Staff confirms identity using facility-defined details]
+    B --> C{Eligibility integration available?}
+    C -->|Yes| D[Request and record eligibility response]
+    C -->|No| E[Use facility-configured verification process]
+    D --> F[Continue check-in]
+    E --> F
+```
