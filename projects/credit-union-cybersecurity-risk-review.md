@@ -28,3 +28,14 @@ Risk assessment · Control-gap analysis · Risk treatment · Business impact and
 ## Project limits
 
 This is an academic analysis of a course-provided scenario. It is not an assessment of a real credit union and does not contain member or customer information.
+
+
+## Illustrative risk-register excerpt
+
+These examples show how the analysis could be converted into trackable actions. They are proposed scenarios and responses, not scored incident data from WWCU.
+
+| Risk scenario | Gap identified in the plan | Proposed response |
+|---|---|---|
+| Stolen credentials expose member records or enable unauthorized transactions | The plan does not require a shared enterprise inventory or current threat information | Assign a risk owner, review access controls, test safeguards, and document residual risk |
+| Ransomware disrupts branches or online banking | Recovery time, recovery point, backup, and restoration responsibilities are not defined | Complete a business impact analysis, set recovery objectives, test backups, and practice restoration |
+| Supplier compromise interrupts or exposes a critical service | Supplier risks are named but not consistently assessed with service and recovery dependencies | Perform ongoing due diligence, document provider controls and notification duties, and include suppliers in incident exercises |
