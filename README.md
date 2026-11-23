@@ -44,6 +44,8 @@ I built related customer, order, and return tables and wrote queries for geograp
 | [Virtualization & Cloud Recommendation](https://github.com/nyokarowland/operating-systems-and-virtualization/blob/main/cloud-architecture-recommendation.md) | Comparing control, cost, growth, and operational responsibilities for a delivery-company scenario |
 | [Network Design & Troubleshooting](https://github.com/nyokarowland/network-design-and-troubleshooting) | Planning branch connectivity, access controls, and a structured response to service interruptions |
 | [Python Text-Based Game](https://github.com/nyokarowland/python-text-based-game) | Translating navigation, inventory, and game rules into working program logic |
+| [IT-304 Systems Analysis](projects/it-304-systems-analysis.md) | Documenting patient check-in and check-out workflows through UML use cases and specifications |
+| [IT-313 Risk Management](projects/it-313-risk-management.md) | Evaluating a credit union’s security risk plan and recommending risk, recovery, compliance, and ethics improvements |
 
 ## Professional Strengths
 
@@ -57,6 +59,7 @@ I built related customer, order, and return tables and wrote queries for geograp
 - Coaching and escalation management
 - Tier I/II/III technical support and troubleshooting for T1, DSL, PRI, VoIP, POTS, and email services
 - Cross-functional collaboration
+- Current Ford quality work: part verification, visual and process checks, defect documentation, and QLS review of reported concerns
 
 ## Tools & Technical Skills
 
